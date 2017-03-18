@@ -34,6 +34,7 @@
       itcast.each( this, callback );
       return this;
     },
+    
     splice: arr.splice
   };
 
