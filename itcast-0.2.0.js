@@ -294,7 +294,12 @@
     }
   } );
 
-
+  // 属性模块
+  itcast.fn.extend( {
+    attr: function(){
+      
+    }
+  } );
 
 
   if ( typeof define === 'function' ){
